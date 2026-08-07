@@ -29,3 +29,7 @@ for i in threeToGo {
 
 // これもできる？
 if oneTwoThree.contains(4) {print("Yes")} else {print("No")}
+
+let a = 1..<100
+print(a.contains(1))
+print(a.contains(100))
