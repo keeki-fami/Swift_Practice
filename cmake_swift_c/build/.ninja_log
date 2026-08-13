@@ -1,0 +1,5 @@
+# ninja log v6
+0	84	1786590077850983063	CMakeFiles/hello_c.dir/Sources/hello.c.o	cfe3332e24aef31a
+84	1449	1786590077934323345	libhello_c.a	350e8a470305a208
+1449	1724	1786590079299033334	swift_app	342fe6cc1aaa1edd
+1449	1724	1786590079299033334	CMakeFiles/swift_app.dir/Sources/main.swift.o	342fe6cc1aaa1edd

@@ -1,0 +1,13 @@
+{
+	"" : 
+	{
+		"swift-dependencies" : "CMakeFiles/swift_app.dir//swift_app.swiftdeps"
+	},
+	"/Users/towasakurada/Desktop/private_\u8a00\u8a9e\u5b66\u7fd2/swift_file/swift_practice/cmake_swift_c/Sources/main.swift" : 
+	{
+		"dependencies" : "CMakeFiles/swift_app.dir/Sources/main.swift.o.d",
+		"diagnostics" : "CMakeFiles/swift_app.dir/Sources/main.swift.o.dia",
+		"object" : "CMakeFiles/swift_app.dir/Sources/main.swift.o",
+		"swift-dependencies" : "CMakeFiles/swift_app.dir/Sources/main.swift.o.swiftdeps"
+	}
+}
